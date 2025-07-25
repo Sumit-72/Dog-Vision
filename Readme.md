@@ -87,10 +87,10 @@ This will save the model in the `models/` directory.
 
 (See `requirements.txt` for the full list)
 
-## 📌 Related Repos
+## 🔗 Related Projects
 
-- 🖥️ **Web App Deployment**: [Dog-Vision Streamlit App](https://github.com/Sumit-72/Dog_vision_web)
-- 🔗 **Live App**: [Try the live demo](https://dog-vision72.streamlit.app/)
+- 🖥️ **Web App Repository**: [Dog-Vision Streamlit App](https://github.com/Sumit-72/Dog_vision_web)
+- 🚀 **Live Demo**: [Try the app live](https://dog-vision72.streamlit.app/)
 
 ## Author
 
